@@ -1,0 +1,4 @@
+importしたものは
+random
+です
+flet-pyodide
